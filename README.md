@@ -9,9 +9,9 @@
 
 
 
-* #### Status: working!
-* #### Easy to run
-* #### Last update
+   * #### Status: working!
+   * #### Easy to run
+   * #### Last update
 
 
 1. #### Download the archive
